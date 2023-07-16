@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on:  [Wada-Art website](https://final-project-upleveled.vercel.app/) - the Single artist website.
 
-- 🌱 I’m currently learning:  **PERN stack at upLeveled bootcamp.**
+- 🌱 I’m currently learning:  **PERN stack at [upLeveled](https://github.com/upleveled) bootcamp.**
 
 - 👨‍💻 All of my projects are available at:  [my GitHub](https://github.com/AlenaRoshchyna)
 
