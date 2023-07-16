@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alena</h1>
+<h1 align="center">Hi 👋, I'm Alena.</h1>
 <h3 align="center">A passionate Full Stack developer with a strong interest in Front-end and UI/UX design.</h3>
 
 <p> I am a frontend leaning Full Stack developer, who is inspired by working on UX/UI, accessibility and responsiveness. I am passionate about databases and building full-stack applications. I am eager to learn new technologies. Tech Stack includes: TypeScript, JavaScript, PostgresSQL, React.js, Next.js, Playwright, Jest, HTML, CSS, GitHub, Figma and etc.</p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning:  **PERN stack at upLeveled bootcamp.**
 
-- 👨‍💻 All of my projects are available at:  [https://github.com/AlenaRoshchyna](https://github.com/AlenaRoshchyna)
+- 👨‍💻 All of my projects are available at:  [my GitHub](https://github.com/AlenaRoshchyna)
 
-- 📫 How to reach me:  **roshchyna.alena@gmail.com**
+- 📫 You can reach me via Email: **roshchyna.alena@gmail.com**
 
 - ⚡ Fun fact:  **Welding is my hobby.**
 
