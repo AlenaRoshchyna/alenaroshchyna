@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alena</h1>
 <h3 align="center">A passionate Full Stack developer with a strong interest in Front-end and UI/UX design.</h3>
 
-- 🔭 I’m currently working on [Wada-Art website](https://final-project-upleveled.vercel.app/)
+- 🔭 I’m currently working on:  [Wada-Art website](https://final-project-upleveled.vercel.app/) - the Single artist website.
 
-- 🌱 I’m currently learning **PERN stack at upLeveled bootcamp.**
+- 🌱 I’m currently learning:  **PERN stack at upLeveled bootcamp.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlenaRoshchyna](https://github.com/AlenaRoshchyna)
+- 👨‍💻 All of my projects are available at:  [https://github.com/AlenaRoshchyna](https://github.com/AlenaRoshchyna)
 
-- 📫 How to reach me **roshchyna.alena@gmail.com**
+- 📫 How to reach me:  **roshchyna.alena@gmail.com**
 
-- ⚡ Fun fact **Welding is my hobby.**
+- ⚡ Fun fact:  **Welding is my hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
