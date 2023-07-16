@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alena</h1>
 <h3 align="center">A passionate Full Stack developer with a strong interest in Front-end and UI/UX design.</h3>
 
+<p> A frontend leaning full-stack developer, who is inspired by working on UX/UI, accessibility and responsiveness. I am passionate about databases and building full-stack applications. I am eager to learn new technologies. Tech Stack includes: TypeScript, JavaScript, PostgresSQL, React.js, Next.js, Playwright, Jest, HTML, CSS, GitHub, Figma and etc.</p>
+
 - 🔭 I’m currently working on:  [Wada-Art website](https://final-project-upleveled.vercel.app/) - the Single artist website.
 
 - 🌱 I’m currently learning:  **PERN stack at upLeveled bootcamp.**
